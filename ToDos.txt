@@ -1,0 +1,11 @@
+-play around with keras (try all three backends)
+-play around with scikit learn
+
+
+
+-use amazon web services
+
+
+definitely:
+convolutional NNs
+LSTMS
